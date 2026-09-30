@@ -1,9 +1,0 @@
-{
-  "name": "company-deck-tools",
-  "private": true,
-  "description": "회사 양식 그대로 발표 자료를 만드는 도구",
-  "dependencies": {
-    "jszip": "3.10.2",
-    "pptxgenjs": "4.0.1"
-  }
-}

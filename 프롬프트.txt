@@ -1,4 +1,3 @@
-먼저 이 컴퓨터에 Python과 Node.js가 있는지 확인하고, 없으면 설치해 줘.
-그다음 https://github.com/kyusieun/company-deck 저장소를 내려받아서(git이 없으면 ZIP으로) skill/company-deck 폴더를 이 폴더의 .claude/skills/company-deck 으로 복사하고, 그 안의 tools 폴더에서 npm install 을 해 줘. 복사한 뒤 내려받은 저장소 사본은 지워 줘. 그리고 .claude/skills/company-deck/SKILL.md 를 읽고 그대로 따라 줘.
+https://github.com/kyusieun/company-deck 저장소에서 skill/company-deck 폴더를 받아 이 폴더의 .claude/skills/company-deck 으로 넣어 줘. 받은 저장소 사본은 지우고, 그 안의 SKILL.md를 읽고 그대로 따라 줘.
 자료 폴더에 우리 회사 발표 자료(이름에 '양식'이 들어간 파일)랑 이번 발표에 쓸 자료들(메모, 엑셀, 회의록 같은 것)을 넣어 뒀어. 회사 양식 그대로 발표 자료 만들어 줘.
 자료에 없는 내용은 지어내지 말고, 나한테 묻지 말고 끝까지 해 줘.
